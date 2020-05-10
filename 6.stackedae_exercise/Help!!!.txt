@@ -1,0 +1,2 @@
+https://github.com/zellyn/deeplearning-class-2011/blob/master/ufldl/stackedae_exercise/stackedAEExercise.m
+http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings
